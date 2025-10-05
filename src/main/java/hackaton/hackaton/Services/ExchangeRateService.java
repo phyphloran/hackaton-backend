@@ -50,7 +50,7 @@ public class ExchangeRateService {
         return false;
     }
 
-    @Scheduled(fixedRate = 60 * 60 * 1000)
+    @Scheduled(fixedRate = 15 * 60 * 1000)
     public void updateExchangeRates() {
         String[] keys = { ApiKeys.RATEKEY1, ApiKeys.RATEKEY2 };
         String[] currencies = {"USD", "EUR", "CNY"};
