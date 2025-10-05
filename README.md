@@ -6,9 +6,8 @@
 ---
 
 frontend - 
-Рабочая страничка - 
 
-http://www.newshub.moscow/
+Рабочая страничка - http://www.newshub.moscow/
 
 ---
 
