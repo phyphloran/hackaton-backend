@@ -6,6 +6,7 @@
 ---
 
 frontend - 
+Рабочая страничка - http://www.newshub.moscow/
 
 ---
 
