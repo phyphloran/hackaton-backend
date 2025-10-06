@@ -5,7 +5,7 @@
 
 ---
 
-frontend - 
+frontend - https://github.com/senders7/NewsHub
 
 Рабочая страничка - http://www.newshub.moscow/
 
