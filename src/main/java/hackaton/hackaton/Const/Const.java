@@ -5,7 +5,7 @@ public class Const {
 
     public static final Integer SLEEP_THREAD_TIME = 250;
 
-    public static final Integer POSTS_COUNT = 250;
+    public static final Integer POSTS_COUNT = 150;
 
     public static final Integer TOP_POSTS_COUNT = 20;
 
